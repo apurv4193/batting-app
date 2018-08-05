@@ -1,0 +1,48 @@
+Array
+(
+    [contest_id] => 57
+    [roster_player] => Array
+        (
+            [0] => Array
+                (
+                    [roster_cap_amount] => 8
+                )
+
+            [1] => Array
+                (
+                    [player_id] => 3
+                )
+
+            [2] => Array
+                (
+                    [roster_cap_amount] => 8.5
+                )
+
+            [3] => Array
+                (
+                    [player_id] => 5
+                )
+
+            [4] => Array
+                (
+                    [roster_cap_amount] => 
+                )
+
+            [5] => Array
+                (
+                    [player_id] => 8
+                )
+
+            [6] => Array
+                (
+                    [roster_cap_amount] => 4
+                )
+
+            [7] => Array
+                (
+                    [player_id] => 9
+                )
+
+        )
+
+)
